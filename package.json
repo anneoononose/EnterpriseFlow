@@ -38,7 +38,7 @@
       "mongodb": "^6.3.0",
       "@opentelemetry/node": "^0.24.0",
       "pino": "^8.16.2",
-      "prom-client": "^14.0.1"
+      "prom-client": "^14.0.1",
       "uuid": "^9.0.1",
       "winston": "^3.11.0"
     },
